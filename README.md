@@ -43,32 +43,6 @@
   </kbd>
 </p>
 
-<p>
-  <kbd>
-  <kbd>Tooling</kbd>
-  <br><br>
-  <img width="32" title="NPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-  <img width="32" title="Rspack" src="https://assets.rspack.rs/rspack/rspack-logo.png">
-  <img width="32" title="Biome" src="https://cdn.simpleicons.org/biome/60A5FA">
-</kbd>
-
-  <kbd>
-    <kbd>Backend</kbd>
-    <br><br>
-    <img width="32" title="Elysia" src="https://elysiajs.com/assets/elysia.svg">
-    <img width="32" title="Express.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-    <img width="32" title="Hono" src="https://cdn.simpleicons.org/hono/E36002">
-    <img width="32" title="tRPC" src="https://cdn.simpleicons.org/trpc/2596BE">
-  </kbd>
-
-  <kbd>
-  <kbd>Communication</kbd>
-  <br><br>
-    <img width="32" title="NATS" src="https://cdn.simpleicons.org/natsdotio/27AAE1">
-    <img width="32" title="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
-</kbd>
-</p>
-
 <h2>Current libraries</h2>
 
 <p>
