@@ -1,5 +1,3 @@
-<h2>About me</h2>
-
 <table>
 <tr>
 <td width="65%" valign="center">
